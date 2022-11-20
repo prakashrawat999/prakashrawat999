@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Java Programming**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, C++, Java, MERN**
 
-- 📫 How to reach me **foxwin00@gmail.com**
+- 📫 How to reach me **prakashrawat4141@gmail.com**
 
 - ⚡ Fun fact **I love Travelling**
 
