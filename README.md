@@ -4,10 +4,22 @@
 <img align="right" alt="Coding" width="400" src="https://hakuva.tech/wp-content/uploads/2020/11/sales-manager-openings.gif">
 
 - 🌱 I’m currently learning **Java Programming**
+- <h1 align="center">Hi 👋, I'm Prakash Rawat</h1>
+<h3 align="center">A passionate Web developer from India</h3>
 
-- 💬 Ask me about **Python, C++, Java, MERN**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashrawat999&label=Profile%20views&color=0e75b6&style=flat" alt="prakashrawat999" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakashrawat999" alt="prakashrawat999" /></a> </p>
+
+- 🌱 I’m currently learning **Next.JS**
+
+- 👨‍💻 All of my projects are available at [https://prakashrawat999.github.io/](https://prakashrawat999.github.io/)
+
+- 💬 Ask me about **React, Node.JS etc**
 
 - 📫 How to reach me **prakashrawat4141@gmail.com**
+
+- 📄 Know about my experiences [https://prakashrawat999.github.io/resume.pdf](https://prakashrawat999.github.io/resume.pdf)
 
 - ⚡ Fun fact **I love Travelling**
 
