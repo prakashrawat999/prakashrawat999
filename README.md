@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://prakashrawat999.github.io/](https://prakashrawat999.github.io/)
 
-- 💬 Ask me about **React, Node.JS etc**
+- 💬 Ask me about **React, C++, Javascript**
 
-- 📫 How to reach me **prakashrawat4141@gmail.com**
+- 📫 How to reach me **prakashrawat02514@gmail.com**
 
 - 📄 Know about my experiences [https://prakashrawat999.github.io/resume.pdf](https://prakashrawat999.github.io/resume.pdf)
 
-- ⚡ Fun fact **I love Travelling**
+- ⚡ Fun fact **love Travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
